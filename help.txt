@@ -1,0 +1,18 @@
+$nomention
+$deletecommand
+$dm
+`!help(in use)`
+`!play`
+`!msgserver`
+`!fun`
+`!rphelp
+!dm
+!shake
+!clean
+!setuproom
+!codeset
+!special
+!event
+!faq
+!poll`
+more in there
