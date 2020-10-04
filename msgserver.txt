@@ -1,0 +1,4 @@
+$nomention
+$deletecommand
+$message
+$onlyAdmin[🚫srry your not admin🚫]
